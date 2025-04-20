@@ -1,5 +1,11 @@
 # JSON2GPL
 
+<div align="center">
+
+  ![Icon](/screenshots/json2gpl-icon.png)
+
+</div>
+
 **JSON2GPL** is a Python script that converts JSON color palette files into GPL (GIMP Palette) format.
 
 This script was made to work with JSON files exported by the [Sip](https://sipapp.io) color picker app for Mac OS, but any JSON file describing a color palette can be used as long as it's formatted properly.
