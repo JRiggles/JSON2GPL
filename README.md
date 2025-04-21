@@ -12,7 +12,7 @@ This script was made to work with JSON files exported by the [Sip](https://sipap
 
 I use it in conjunction with a Mac OS Automator folder action to automatically convert JSON color palettes to GPL when they're added to my Aseprite palettes folder, but you can use it however you want.
 
-The JSON file is expected to contain a `"name"` key which defines the name of the color palette, and a `"colors"` key which contains a array of color objects with `"name"` and "`hex`" keys, and
+The JSON file is expected to contain a `"name"` key which defines the name of the color palette, and a `"colors"` key which contains a array of color objects with `"name"` and `"hex"` keys.
 
 ### Example JSON
 
