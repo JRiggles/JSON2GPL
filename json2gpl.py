@@ -23,8 +23,8 @@ def convert_json_to_gpl(json_file) -> None:
     Read color palette information from a JSON file (such as one exported from
     Sip) and convert it to GPL format.
 
-    The expected JSON structure should contain at array the following:
-    - 'colors': a list of color objects, each with a 'name' and 'hex' key
+    The expected JSON structure should contain the following:
+    - 'colors': an array of color objects, each with a 'name' and 'hex' key
     - 'name': the name of the palette
     ```
     {
